@@ -1,7 +1,7 @@
-[![MasterHead]("https://img.freepik.com/free-vector/illustration-social-media-concept_53876-18135.jpg?w=826&t=st=1682097801~exp=1682098401~hmac=0793b9e7f1677d76c8b28c80900349206f15dd6174751d243c71fbe11c339466")]
+[![MasterHead](https://img.freepik.com/free-vector/illustration-social-media-concept_53876-18135.jpg?w=826&t=st=1682097801~exp=1682098401~hmac=0793b9e7f1677d76c8b28c80900349206f15dd6174751d243c71fbe11c339466)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Alexander Batista</h1>
 <h3 align="center">A passionate physics student and a data scientist who surfs on codes.</h3>
-<img align="right" alt="Coding" width="400" scr="https://cdn.dribbble.com/users/2598999/screenshots/8659774/astronaut.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2598999/screenshots/8659774/astronaut.gif">
 
 - 🔭 I’m currently working on **Physics Data Research**
 - 🌱 I’m currently learning **Git**
