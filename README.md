@@ -1,4 +1,4 @@
-![header](https://github.com/DamianTellez/damiantellez/blob/main/github-header-image.png)
+![header](https://github.com/DamianTellez/damiantellez/blob/main/github-header-image%20(1).png)
 # Welcome to my GitHub Space! I’m Damian 
 
 ## Now you're here take a look at the repos, you could find something interesting!
