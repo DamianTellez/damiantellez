@@ -10,8 +10,9 @@
   
 - I’m currently learning more about data pipelines and Apache Spark looking for an in-depth understanding of the data universe and helping stakeholders to find better solutions 📓✨
 
-  
-- 📫 You can also find me on [Linkedin](https://www.linkedin.com/in/alexander-batista-tellez/).   
+- **Main topics:** Innovation Industries, Business Analysis, Academic Research.
+
+- 📫 You can find me on [Linkedin](https://www.linkedin.com/in/alexander-batista-tellez/).   
 
 <!---
 DamianTellez/DamianTellez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
