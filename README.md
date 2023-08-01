@@ -6,7 +6,7 @@
 - Passionate data scientist with a creative mindset to solve problems. 🔭
 - Some of the tools I use:
 
-  [![My Skills](https://skillicons.dev/icons?i=py,c,r,matlab,gcp,git,sqlite)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,c,r,git)](https://skillicons.dev)
   
 - I’m currently learning more about data pipelines and Apache Spark looking for an in-depth understanding of the data universe and helping stakeholders to find better solutions 📓✨
 
