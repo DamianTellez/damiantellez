@@ -10,7 +10,7 @@
   
 - I’m currently learning more about data pipelines and Apache Spark looking for an in-depth understanding of the data universe and helping stakeholders to find better solutions 📓✨
 
-- 📫 You can find me on [Linkedin](https://www.linkedin.com/in/alexander-batista-tellez/). 
+- 📫 You can find me on [Linkedin](https://www.linkedin.com/in/alexander-batista-tellez/)and[Instagram](https://www.instagram.com/alexander.dmiann). Let's chat! 
 
 - **Main topics:** Innovative Industries & Business Analysis.
 
