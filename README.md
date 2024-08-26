@@ -1,7 +1,4 @@
 ![header](https://github.com/DamianTellez/damiantellez/blob/main/github-header-image%20(1).png)
-## Now you're here, take a look at the repos... you could find something interesting!
-
-## Open-source community contributor.  
 
 - Passionate data scientist with a creative mindset to solve problems. 🔭
   
