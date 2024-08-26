@@ -4,8 +4,9 @@
 ## Open-source community contributor.  
 
 - Passionate data scientist with a creative mindset to solve problems. 🔭
-- 
+  
 - PROGRAMMING LANGUAGES:
+  
   [![My Skills](https://skillicons.dev/icons?i=py,c,r)](https://skillicons.dev)
   
   [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
