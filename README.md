@@ -4,7 +4,7 @@ Soy estudiante de **Ciencias Ambientales en la Universidad de Córdoba**, con fo
 
 Me interesa trabajar en la intersección entre **ciencia, tecnología e ingeniería**, especialmente en proyectos donde los datos y la programación pueden utilizarse para resolver problemas científicos o del mundo real.
 
-Actualmente estoy desarrollando proyectos relacionados con **Data Science, Machine Learning, SIG, electrónica, energías renovables y exploración espacial**.
+Actualmente estoy desarrollando proyectos relacionados con **Data Science, Machine Learning, SIG, electrónica y energías renovables**.
 
 ---
 
@@ -19,7 +19,6 @@ Actualmente estoy desarrollando proyectos relacionados con **Data Science, Machi
 * 📊 Análisis, tratamiento y visualización de datos
 * 🚀 Interés en **aeroespacial, cohetería y exploración espacial**
 * 🌱 Interés en **energías renovables y modelización ambiental**
-* 🌐 Experiencia académica e internacional en **España, Brasil y Cuba**
 
 ---
 
