@@ -87,14 +87,6 @@ Este gráfico se actualiza automáticamente a partir de los repositorios públic
 
 ## 🚀 Proyectos
 
-### ☀️ Predicción de generación solar
-
-Proyecto de **Machine Learning** para predecir la generación de energía solar utilizando datos históricos de generación y variables meteorológicas.
-
-**Python · Pandas · Scikit-learn · Machine Learning · QGIS · Visualización de datos**
-
----
-
 ### 🤖 Sistema de posicionamiento X-Z
 
 Prototipo experimental de un sistema de movimiento en los ejes **X-Z** utilizando microcontroladores, motores paso a paso, actuadores lineales y drivers.
@@ -102,16 +94,6 @@ Prototipo experimental de un sistema de movimiento en los ejes **X-Z** utilizand
 El proyecto explora conceptos de **control de movimiento, electrónica y sistemas embebidos**, con la intención de evolucionar hacia sistemas de control más avanzados.
 
 **C/C++ · Arduino · ESP32 · Electrónica · Control**
-
----
-
-### 🚀 Proyecto universitario de cohetería
-
-Iniciativa universitaria orientada al desarrollo de **cohetes experimentales a escala**, combinando conocimientos de física, ingeniería, electrónica y programación.
-
-Áreas de trabajo:
-
-**Aerodinámica · Propulsión · Electrónica · Recuperación · Estructuras · Fabricación · Adquisición de datos**
 
 ---
 
